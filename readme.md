@@ -63,4 +63,17 @@ The analysis helps businesses make **data-driven decisions** to reduce churn and
 
 ---
 
+---
+
+## 🚀 Conclusion
+This project demonstrates my ability to perform **end-to-end data analysis**, build **interactive dashboards**, and translate insights into **business-focused recommendations** using Power BI.
+
+---
+
+## 👤 Author
+**Rishi Bhardwaj**  
+Aspiring Data Analyst  
+
+📌 Feel free to connect with me on LinkedIn and explore more projects on GitHub!
+
 
