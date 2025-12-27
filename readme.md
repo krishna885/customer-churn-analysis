@@ -73,7 +73,7 @@ This project demonstrates my ability to perform **end-to-end data analysis**, bu
 ## 👤 Author
 **Rishi Bhardwaj**  
 Aspiring Data Analyst  
-
+linkedin - www.linkedin.com/in/rishi-b-93b91b296
 📌 Feel free to connect with me on LinkedIn and explore more projects on GitHub!
 
 
